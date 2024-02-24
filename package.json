@@ -1,0 +1,17 @@
+{
+  "name": "api-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/faker": "^6.6.9",
+    "cypress": "^13.6.4",
+    "faker": "^6.6.6"
+  }
+}
